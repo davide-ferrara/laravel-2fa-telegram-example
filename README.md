@@ -9,6 +9,8 @@
 
 ## About this project
 
+![immagine](https://github.com/user-attachments/assets/4067899e-4694-44cf-ae6a-99e5bdd1c4ca)
+
 Simple implementation of 2FA using telegram in Laravel. This application has been made for an University Project and you shoud not use it in production but it is good for learning.
 ## License
 
